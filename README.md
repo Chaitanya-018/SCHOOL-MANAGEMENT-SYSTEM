@@ -7,7 +7,7 @@ How to run the Student Management System (StudentMS) Project
 
 2. Extract the file and copy sms_pro folder
 
-3.Paste inside root directory(for xampp xampp/htdocs, for wamp wamp/www, for lamp var/www/html)
+3. Paste inside root directory(for xampp xampp/htdocs, for wamp wamp/www, for lamp var/www/html)
 
 4. Open PHPMyAdmin (http://localhost/phpmyadmin)
 
@@ -15,7 +15,7 @@ How to run the Student Management System (StudentMS) Project
 
 6. Import sms.sql file(given inside the zip package in SQL file folder)
 
-7.Run the script http://localhost/sms_pro/home_Page.php (frontend)
+7. Run the script http://localhost/sms_pro/home_Page.php (frontend)
 
 
 
